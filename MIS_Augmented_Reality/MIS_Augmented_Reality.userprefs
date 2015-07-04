@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\WebContentPersonInfo.cs">
+    <Files>
+      <File FileName="Assets\Scripts\WebContentPersonInfo.cs" Line="13" Column="7" />
+      <File FileName="Assets\Scripts\WebContentFunctionInfo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WebContentHMTLBase.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

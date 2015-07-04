@@ -1,0 +1,2 @@
+Teapot taken from:
+http://goanna.cs.rmit.edu.au/~pknowles/models.html (18.06.2015)
